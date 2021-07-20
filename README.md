@@ -1,4 +1,4 @@
-### Hi there 👋
+![My Stars](https://github-readme-stats.vercel.app/api?username=ji1ai1&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 <!--
 **ji1ai1/ji1ai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
